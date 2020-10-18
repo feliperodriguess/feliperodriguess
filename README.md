@@ -35,5 +35,5 @@
 ### Github Stats
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperodriguess&layout=compact&hide=html" alt="Felipe Rodrigues" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperodriguess&layout=compact&hide=html&theme=dracula&hide=html" alt="Felipe Rodrigues" />
 </p>
