@@ -1,7 +1,5 @@
 <h1 align="center">Hello there, I'm Felipe 👋</h1>
-<h3 align="center">Web Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=feliperodriguess" alt="Felipe Rodrigues" /> </p>
-<p align="center">
+<h2 align="center">Web Developer</h2>
   <a href="https://github.com/feliperodriguess?tab=followers">
     <img src="https://img.shields.io/github/followers/feliperodriguess?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
