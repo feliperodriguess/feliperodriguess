@@ -1,8 +1,7 @@
 <h1 align="center">Hello there, I'm Felipe 👋</h1>
-<h2 align="center">Web Developer</h2>
 <p align="center">
   <a href="https://github.com/feliperodriguess?tab=followers">
-    <img src="https://img.shields.io/github/followers/feliperodriguess?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    Web Developer - <img src="https://img.shields.io/github/followers/feliperodriguess?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
 
@@ -10,12 +9,7 @@
 
 - 💬 Ask me about **React, Next.js, GraphQL**
 
-- 📫 How to reach me:
-<div>
-  <a href="https://linkedin.com/in/feliperodriguess" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="Felipe Rodriguess" height="30" width="30" /></a>
-  <a href="mailto:felipe.augusto.rodrigues1@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"  alt="Felipe Rodriguess" height="30" width="30" /></a>
-  <a href="https://wa.me/5548991456815" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg" alt="Felipe Rodriguess" height="30" width="30" /></a>
-<div>
+- 📫 How to reach me: <a href="https://linkedin.com/in/feliperodriguess" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="Felipe Rodriguess" height="30" width="30" /></a> <a href="mailto:felipe.augusto.rodrigues1@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"  alt="Felipe Rodriguess" height="30" width="30" /></a> <a href="https://wa.me/5548991456815" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg" alt="Felipe Rodriguess" height="30" width="30" /></a>
 
 ### Technologies
 
@@ -42,8 +36,4 @@
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperodriguess&layout=compact&hide=html" alt="Felipe Rodrigues" />
-</p>
-<br/>
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=feliperodriguess&show_icons=true" alt="Felipe Rodrigues" />
 </p>
