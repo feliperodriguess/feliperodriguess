@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Next.js, GraphQL**
 
-- 📫 How to reach me: <a href="https://linkedin.com/in/feliperodriguess" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="Felipe Rodriguess" height="30" width="30" /></a> <a href="mailto:felipe.augusto.rodrigues1@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"  alt="Felipe Rodriguess" height="30" width="30" /></a> <a href="https://wa.me/5548991456815" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg" alt="Felipe Rodriguess" height="30" width="30" /></a>
+- 📫 How to reach me: <a href="https://linkedin.com/in/feliperodriguess" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="Felipe Rodriguess" height="30" width="30" /></a> <a href="mailto:felipe.augusto.rodrigues1@gmail.com" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"  alt="Felipe Rodriguess" height="30" width="30" /></a> <a href="https://wa.me/5548991456815" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg" alt="Felipe Rodriguess" height="30" width="30" /></a>
 
 ### Technologies
 
