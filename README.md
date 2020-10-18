@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Felipe 👋</h1>
 <h2 align="center">Web Developer</h2>
-<p>
+<p align="center">
   <a href="https://github.com/feliperodriguess?tab=followers">
     <img src="https://img.shields.io/github/followers/feliperodriguess?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
