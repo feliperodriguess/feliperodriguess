@@ -5,7 +5,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working at [Jungle Devs](https://www.jungledevs.com/)
+- 🔭 I’m currently working at [Popstand](https://www.poptstand.com/)
 
 - 💬 Ask me about **React, Next.js, GraphQL**
 
