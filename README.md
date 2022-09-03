@@ -6,7 +6,7 @@
 </p>
 
 [comment]: <> (- 🔭 I’m currently working at [X-Team](https://x-team.com/))
-[comment]: <> ((- 💬 Ask me about **React, Next.js, GraphQL, NestJS, Blockchain and Solidity**)
+[comment]: <> (- 💬 Ask me about **React, Next.js, GraphQL, NestJS, Blockchain and Solidity**)
 [comment]: <> (- 📫 How to reach me: <a href="https://linkedin.com/in/feliperodriguess" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="Felipe Rodriguess" height="30" width="30" /></a> <a href="mailto:felipe.augusto.rodrigues1@gmail.com" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"  alt="Felipe Rodriguess" height="30" width="30" /></a>)
 
 ### Github Stats
